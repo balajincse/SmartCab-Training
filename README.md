@@ -1,5 +1,5 @@
 # SmartCab-Training
-Training the Smart Cab to take the decision to make Action.
+Training the Smart Cab to take a decision.
 
 ## Train a Smartcab How to Drive
 
